@@ -12,7 +12,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 ---
 
 <p align="center">
-  <img src="https://github-profile-pet.vercel.app/api/pet?user=saantiagodev&type=cat&color=pink&name=Natur&v=1" width="300" />
+  <img src="https://github-profile-pet.vercel.app/api/pet?user=saantiagodev&type=cat&color=pink&name=Natur&v=2" width="300" />
 </p>
 
 ---
