@@ -24,11 +24,6 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saantiagodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
 
 ### 🗣️ Linguagens Mais Usadas
 
