@@ -32,7 +32,3 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 </p>
 
 ---
-
-### 📫 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN_AQUI)
