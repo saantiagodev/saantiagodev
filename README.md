@@ -1,5 +1,6 @@
-
-![tumblr_9e03a08324c4d86a9a13caa63a2e72c4_9a8bd118_540](https://github.com/user-attachments/assets/a811c0ed-0903-414b-92fe-a00f203f0fd8)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTloYWQ3d25vcjQzN3p6cmg0ZWd4amQzZGx2bzYzc2o1NGtxdnN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LzGqR9496i0D1W7u4r/giphy.gif" alt="Seu GIF da Sarah">
+</p>
 
 # Olá, eu sou a Sarah! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
