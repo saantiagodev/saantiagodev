@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![tumblr_9e03a08324c4d86a9a13caa63a2e72c4_9a8bd118_540](https://github.com/user-attachments/assets/c43f0502-427a-46b7-976e-ca3e31edc0d6)" alt="Seu GIF da Sarah">
+  <img src="https://github.com/user-attachments/assets/c43f0502-427a-46b7-976e-ca3e31edc0d6" alt="Seu GIF da Sarah">
 </p>
 
 
