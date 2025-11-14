@@ -26,9 +26,9 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
   </tr>
 </table>
 
-<p align="center">
+
   ### 💻 Tecnologias e Ferramentas
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=black" />
@@ -41,9 +41,9 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 ---
 
-<p align="center">
+
   ### 🗣️ Linguagens Mais Usadas
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saantiagodev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
