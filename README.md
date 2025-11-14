@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59528800-f456-4f98-9831-6279a4d0fea4" />
-
 </p>
 
 
@@ -25,7 +24,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
       <img src="https://github.com/user-attachments/assets/97baee3e-70a4-462d-a76c-5d1640986ee7" width="300px">
     </td>
     <td>
-      <img src="URL_DA_SUA_IMAGEM_2.png" width="300px">
+      <img src="https://github.com/user-attachments/assets/6a27646b-304b-4d6f-8011-dce94ac2cd54" width="300px">
     </td>
   </tr>
 </table>
@@ -52,3 +51,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d65d82f5-c322-4346-b35c-9c983c7b2cf1" />
+</p>
