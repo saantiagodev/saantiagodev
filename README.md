@@ -19,6 +19,18 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 ---
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/97baee3e-70a4-462d-a76c-5d1640986ee7" width="300px">
+    </td>
+    <td>
+      <img src="URL_DA_SUA_IMAGEM_2.png" width="300px">
+    </td>
+  </tr>
+</table>
+
+
 ### 💻 Tecnologias e Ferramentas
 
 <p align="left">
