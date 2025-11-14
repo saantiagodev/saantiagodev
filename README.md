@@ -18,13 +18,13 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 ---
 
-<table align="center">
+<table align="center" <strong>style="border: none; border-collapse: collapse;"</strong>>
   <tr>
-    <td>
+    <td <strong>style="padding: 10px;"</strong>>
       <img src="https://github.com/user-attachments/assets/97baee3e-70a4-462d-a76c-5d1640986ee7" width="200px">
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/d5a730a4-a805-4dbd-a305-7d8a06925a82" width="200px">
+    <td <strong>style="padding: 10px;"</strong>>
+      <img src="https://github.com/user-attachments/assets/a49e8d46-12c1-4a13-bab7-95dc1c0ad895)" width="200px">
     </td>
   </tr>
 </table>
