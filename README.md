@@ -53,5 +53,5 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d65d82f5-c322-4346-b35c-9c983c7b2cf1" />
+  <img src="https://github.com/user-attachments/assets/d65d82f5-c322-4346-b35c-9c983c7b2cf1 width="100px" />
 </p>
