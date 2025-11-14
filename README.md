@@ -20,10 +20,10 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 <table align="center" <strong>style="border: none; border-collapse: collapse;"</strong>>
   <tr>
-    <td <strong>style="padding: 10px;"</strong>>
+    <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/97baee3e-70a4-462d-a76c-5d1640986ee7" width="200px">
     </td>
-    <td <strong>style="padding: 10px;"</strong>>
+    <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/a49e8d46-12c1-4a13-bab7-95dc1c0ad895)" width="200px">
     </td>
   </tr>
