@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Register - Login](https://github.com/user-attachments/assets/9a8b9fe0-1397-4195-ad9a-2abe98e19dc0)" alt="Seu GIF da homura">
+  <img src="https://github.com/user-attachments/assets/9a8b9fe0-1397-4195-ad9a-2abe98e19dc0" alt="Seu GIF da homura">
 </p>
 
 
