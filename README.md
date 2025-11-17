@@ -34,6 +34,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
   <img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-B2FFFF?style=for-the-badge&logo=css3&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-FDFD96?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C#-B2FFFF?style=for-the-badge&logo=css3&logoColor=black" />
   <img src="https://img.shields.io/badge/React-E0BBE4?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-98FB98?style=for-the-badge&logo=python&logoColor=black" />
