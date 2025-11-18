@@ -31,8 +31,6 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 ### 💻 Tecnologias e Ferramentas
 
-### 💻 Tecnologias e Ferramentas
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=black" />
