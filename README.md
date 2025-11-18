@@ -48,7 +48,6 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 </p>
 
 <br>
-<br>
 
 <div align="center">
   <h3>🗣️ Linguagens Mais Usadas</h3>
