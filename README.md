@@ -29,16 +29,17 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 </table>
 
 
-  ### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-B2FFFF?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-FDFD96?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSharp-B2FFFF?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-E0BBE4?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FAFAD2?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSharp-AEC6CF?style=for-the-badge&logo=csharp&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-E6E6FA?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-FAFAD2?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 ---
