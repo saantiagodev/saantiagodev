@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  # Olá, eu sou a Sarah! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h2>Olá, eu sou a Sarah!<h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </div>
 
 Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jornada para me tornar Full-Stack. Tenho um interesse especial por criar interfaces intuitivas e visualmente atraentes, combinando código e design.
