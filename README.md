@@ -30,6 +30,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 
 
+
 <p align="center">
   ### 💻 Tecnologias e Ferramentas
 </p>
@@ -45,6 +46,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
   <img src="https://img.shields.io/badge/Git-FFC09F?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 ---
+
 
 
 <p align="center">
