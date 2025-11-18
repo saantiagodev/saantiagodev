@@ -32,14 +32,14 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 ### 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-FAFAD2?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSharp-AEC6CF?style=for-the-badge&logo=csharp&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-E6E6FA?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-FFDAC1?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-FAFAD2?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-BFEFFF?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFFAA?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSharp-CCCCFF?style=for-the-badge&logo=csharp&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-A9F0FF?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-FF9999?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-B8F2B8?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-FFC09F?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 ---
