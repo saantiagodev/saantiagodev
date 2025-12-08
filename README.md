@@ -51,7 +51,9 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 <div align="center">
   <h3>🗣️ Linguagens Mais Usadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Top Languages" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Top Languages" />
+  </p>
 </div>
 
 <p align="center">
