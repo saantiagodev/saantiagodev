@@ -10,7 +10,11 @@
 
 Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jornada para me tornar Full-Stack. Tenho um interesse especial por criar interfaces intuitivas e visualmente atraentes, combinando código e design.
 
-- 📫 Como me encontrar: [Email](mailto:saantiagodev@gmail.com)
+- ### 📫 Como me encontrar:
+
+- 💼 **LinkedIn:** [Acesse meu perfil profissional](www.linkedin.com/in/saantiagodev)
+- ✉️ **Email:** [seu-email@exemplo.com](mailto:saantiagodev@gmail.com)
+  
 ---
 
 <table align="center" style="border: none; border-collapse: collapse;">
