@@ -8,12 +8,13 @@
 
 # Olá, eu sou a Sarah! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jornada para me tornar Full-Stack. Tenho um interesse especial por criar interfaces intuitivas e visualmente atraentes, combinando código e design.
+Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jornada para me tornar Full-Stack. Tenho um interesse especial por criar interfaces intuitivas e atraentes, combinando código e design.
 
-- ### 📫 Como me encontrar:
+- 🎯 **Foco:** Criação de experiências centradas no usuário e acessibilidade digital.
+- 🎨 **Design:** UI/UX Design e prototipação no Figma.
+- 💻 **Código:** Expandindo meus conhecimentos para atuar como Full-Stack.
+- 📫 **Como me encontrar:** [LinkedIn](www.linkedin.com/in/saantiagodev) | [Email](mailto:saantiagodev@gmail.com)
 
-- 💼 **LinkedIn:** [Perfil Profissional](www.linkedin.com/in/saantiagodev)
-- ✉️ **Email:** [Emailm](mailto:saantiagodev@gmail.com)
 
 ---
 
