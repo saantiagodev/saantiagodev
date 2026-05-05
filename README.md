@@ -10,14 +10,6 @@
 
 Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jornada para me tornar Full-Stack. Tenho um interesse especial por criar interfaces intuitivas e visualmente atraentes, combinando código e design.
 
-- 💻 Desenvolvendo interfaces web responsivas e interativas com **HTML, CSS e JavaScript**.
-
-- 🚀 Construindo aplicações front-end com **React** e expandindo minhas habilidades para o back-end com **Node.js** e **CSharp** (com foco no desenvolvimento de serviços e APIs).
-
-- 🎨 Planejando e prototipando a experiência do usuário no **Figma**, transformando designs em código funcional.
-
-- 🌱 Sempre aberto para aprender e colaborar em projetos inovadores.
-
 - 📫 Como me encontrar: [Email](mailto:saantiagodev@gmail.com)
 ---
 
