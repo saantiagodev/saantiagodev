@@ -12,9 +12,9 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 
 - ### 📫 Como me encontrar:
 
-- 💼 **LinkedIn:** [Acesse meu perfil profissional](www.linkedin.com/in/saantiagodev)
-- ✉️ **Email:** [seu-email@exemplo.com](mailto:saantiagodev@gmail.com)
-  
+- 💼 **LinkedIn:** [Perfil Profissional](www.linkedin.com/in/saantiagodev)
+- ✉️ **Email:** [Emailm](mailto:saantiagodev@gmail.com)
+
 ---
 
 <table align="center" style="border: none; border-collapse: collapse;">
