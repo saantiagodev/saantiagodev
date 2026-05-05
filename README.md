@@ -13,7 +13,7 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** construindo minha jorna
 - 🎯 **Foco:** Criação de experiências centradas no usuário e acessibilidade digital.
 - 🎨 **Design:** UI/UX Design e prototipação no Figma.
 - 💻 **Código:** Expandindo meus conhecimentos para atuar como Full-Stack.
-- 📫 **Como me encontrar:** [LinkedIn](www.linkedin.com/in/saantiagodev) | [Email](mailto:saantiagodev@gmail.com)
+- 📫 **Contato:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saantiagodev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saantiagodev@gmail.com)
 
 
 ---
