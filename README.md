@@ -5,3 +5,4 @@ Sou uma desenvolvedora e designer em formação, gosto de juntar programação e
 - 🖍️ Tenho bastante interesse na área de artes visuais, e no meu tempo livre prático desenho e arte digital.
 - 🌱 As tecnologias e ferramentas que utilizo e aprimoro no momento incluem: React, JavaScript, Figma e Adobe Illustrator.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saantiagodev&layout=compact&theme=tokyonight&hide_border=false&title_color=e44d26)
