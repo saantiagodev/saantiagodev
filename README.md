@@ -4,3 +4,5 @@ Sou uma desenvolvedora e designer em formação, gosto de juntar programação e
 - 📚 Meus estudos são focados para as áreas de Full-Stack e UI/UX Design, com o objetivo de desenvolver interfaces funcionais e acessíveis.
 - 🖍️ Tenho bastante interesse na área de artes visuais, e no meu tempo livre prático desenho e arte digital.
 - 🌱 As tecnologias e ferramentas que utilizo e aprimoro no momento incluem: React, JavaScript, Figma e Adobe Illustrator.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight" />
