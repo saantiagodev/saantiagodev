@@ -6,5 +6,5 @@ Sou uma desenvolvedora e designer em formação, gosto de juntar programação e
 - 🌱 As tecnologias e ferramentas que utilizo e aprimoro no momento incluem: React, JavaScript, Figma e Adobe Illustrator.
 
 <p align="center">
-   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saantiagodev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact) />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saantiagodev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
