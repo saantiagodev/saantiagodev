@@ -1,4 +1,5 @@
-Product Designer e Desenvolvedor. Focando em me aprimorar em Design (UI/UX) e integrar interfaces intuitivas à lógica de dados.
+Product Designer e Desenvolvedor | Focando em me aprimorar em Design (UI/UX) e integrar interfaces intuitivas à lógica de dados.
+
 Formado em Técnico em Desenvolvimento de Sistemas (Senac).
 
 
